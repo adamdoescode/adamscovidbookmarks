@@ -6,6 +6,9 @@ My firefox bookmarks related to the Covid-19 crisis has grown large and unruly. 
 
 ## Global resources
 
+[1point3acres](https://coronavirus.1point3acres.com/en)
+Accessible global dashboard, loads much faster than the JHH GISAID site on my firefox browser. I had heard this has a USA focus, but seems to have views for many countries so I have placed it under "global".
+
 [JHH GISAID dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 The signature (and obligatory) John Hopkin's dashboard. Mostly useful for America and a quick overview of official state of the pandemic.
 
@@ -19,6 +22,9 @@ A website for quickly finding recent pre-prints of Covid-19 associated studies. 
 I find this is a great way to get quick cumulative case graphs for basically every country. Has some data cleaning issues but definitely useful for the casual observer.
 
 ## USA
+
+[Forecast hub visualisations](https://viz.covid19forecasthub.org/)
+Easy to understand visualisations of forecast models for new COVID19 infections. Really good!
 
 [Covidtracking project](https://covidtracking.com/)
 Best collated source for USA cases that I could find. The USA have taken a very federalist approach and it is difficult to find information from each state seperately.
